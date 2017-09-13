@@ -1,3 +1,3 @@
 .PHONY: go
-go: rb.rb
+go: hello.rb
 	ruby $<
